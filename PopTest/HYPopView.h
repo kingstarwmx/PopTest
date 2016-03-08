@@ -22,6 +22,9 @@ typedef NS_ENUM(NSInteger, HYPopViewAnimation) {
 
 @interface HYPopView : UIView
 
+
+
+
 /**
  *  初始化方法
  *
